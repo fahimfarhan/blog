@@ -1,0 +1,2 @@
+# blog
+crazy blogging ideas :/
