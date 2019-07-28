@@ -1,0 +1,43 @@
+title: fahimfarhan
+author: Qazi Fahim Farhan
+email: fahim.farhan@outlook.com
+description: > # this means to ignore newlines until "show_exerpts:"
+  Dread it, run from it, destiny arrives all the same unamused. 
+  May the CodeForces be with you!upside_down_face 
+  Love you 3000 heart️ Keep It Simple Stupid (KISS) upside_down_face
+show_excerpts: true # set to true to show excerpts on the homepage
+# baseurl: /blog
+
+# Minima date format
+# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
+sass:
+  sass_dir: _sass
+
+permalink: /posts/:title/
+texture:
+  title: fahimfarhan
+  tagline: Developer. Coder
+  date_format: "%b %-d, %Y"
+  style: green
+  showNav: false
+  showPicker: true
+
+  # generate social links in footer
+  social_links:
+    twitter: qfahimfarhan
+    github:  fahimfarhan
+    linkedIn: in/fahimfarhan
+    # rss: rss
+ 
+
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+#header_pages:
+# - about.md
+
+# Build settings
+# theme: texture
+
+plugins:
+  - jekyll-seo-tag
+#  - jekyll-feed
