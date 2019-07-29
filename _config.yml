@@ -22,6 +22,7 @@ texture:
   showNav: false
   showPicker: true
   disqus_shortname: fahimfarhan
+  analytics_id: 'UA-144753833-1'
   # generate social links in footer
   social_links:
     twitter: qfahimfarhan
