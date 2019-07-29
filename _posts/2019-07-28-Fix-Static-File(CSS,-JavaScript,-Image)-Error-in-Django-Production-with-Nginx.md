@@ -1,16 +1,12 @@
 ---
 layout: post
 title:  "Fix Static File(CSS, JavaScript, Image) Error in Django Production with Nginx"
-description: Fix Static File(CSS, JavaScript, Image) Error in Django Production with Nginx.
+description: How to Deploy Django in Production (Worst Nightmare of All Time!)
 date:   2019-07-28 21:03:36 +0600
-categories: django-production ubuntu-server-18.04 linux python django-deployment django-troubleshooting
+categories:
 ---
-### How to Deploy Django in Production 
-### Worst Nightmare of All Time!
+
 Hello internet!
-
-![alt text](https://i.imgur.com/hBHkhGN.jpg "Logo Title Text 1")
-
 If you are a python Django developer, you know that everything goes wrong when you do this:
 ```
 DEBUG = False
@@ -130,3 +126,5 @@ This should do the trick.
 ## References
 1. Install ubuntu server: [https://hibbard.eu/install-ubuntu-virtual-box/](https://hibbard.eu/install-ubuntu-virtual-box/)
 2. django with nginx: [http://rahmonov.me/posts/run-a-django-app-with-nginx-and-gunicorn/](http://rahmonov.me/posts/run-a-django-app-with-nginx-and-gunicorn/)
+
+![alt text](https://i.imgur.com/hBHkhGN.jpg "Logo Title Text 1")
