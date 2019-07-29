@@ -3,7 +3,7 @@ layout: post
 title:  "Fix Static File(CSS, JavaScript, Image) Error in Django Production with Nginx"
 description: Fix Static File(CSS, JavaScript, Image) Error in Django Production with Nginx.
 date:   2019-07-28 21:03:36 +0600
-categories: Python Django Resolve-Error Nginx
+categories: django-production ubuntu-server-18.04 linux python django-deployment django-troubleshooting
 ---
 ### How to Deploy Django in Production 
 ### Worst Nightmare of All Time!
