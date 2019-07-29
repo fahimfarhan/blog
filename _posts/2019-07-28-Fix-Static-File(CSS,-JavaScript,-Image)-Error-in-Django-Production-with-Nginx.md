@@ -25,9 +25,10 @@ For demonstrating purposes, I'll be using Ubuntu Server 18.04.2 in my virtual bo
 3. working with terminals
 4. working with a terminal based editor (eg, vim, nano etc. ) I'll be using vim as I'm used to it. But feel free to use whatever you like.
 
- <video width="320" height="240" controls>
-  <source src="https://youtu.be/5FXgEbaNCfA" type="video/mp4">
-</video> 
+ <iframe width="420" height="315"
+src="https://www.youtube.com/embed/tgbNymZ7vqY">
+</iframe> 
+
 ## Steps
 1. To start with, 1st make a simple django project.You may make an html template, and connect your css stuffs (not needed though). In your settings, add this: ```STATIC_ROOT = os.path.join(BASE_DIR, 'static/') ```, and run the command ``` $ manage.py collectstatic```. Upload the project into github/bitbucket.
 
