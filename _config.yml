@@ -6,7 +6,7 @@ description: > # this means to ignore newlines until "show_exerpts:"
   May the CodeForces be with you!upside_down_face 
   Love you 3000 heart️ Keep It Simple Stupid (KISS) upside_down_face
 show_excerpts: true # set to true to show excerpts on the homepage
-# baseurl: /blog
+baseurl: http://fahimfarhan.github.io/blog
 
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
