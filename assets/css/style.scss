@@ -48,7 +48,8 @@
     #blue { background-color: lightblue; }
     #black { background-color: #111; }
     #purple { background-color: rebeccapurple; }
-    #green { background-color: mediumseagreen; }
+    #green { background-color: #006622; }
+    //#green { background-color: mediumseagreen; }
 }
 {%- endif -%}
 // Textures
@@ -78,6 +79,10 @@
 
 .texture-red {
     background-image: url('{{ site.baseurl }}/assets/textures/red.jpg');
+}
+
+.texture-cycle {
+    background-image: url('{{ site.baseurl }}/assets/textures/cycle.jpg');
 }
 
 .texture-purple {
