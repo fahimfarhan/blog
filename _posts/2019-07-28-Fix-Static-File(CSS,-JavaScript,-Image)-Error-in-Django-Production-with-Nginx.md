@@ -7,10 +7,8 @@ categories:
 ---
 
 Hello internet!
-If you are a python Django developer, you know that everything goes wrong when you do this:
-```
-DEBUG = False
-```
+If you are a python Django developer, you know that everything goes wrong when you do this: 
+`DEBUG = False`
 Your javascript, css, images, these static contents stop working. Today, we'll put an end to this using nginx. 
 For demonstrating purposes, I'll be using Ubuntu Server 18.04.2 in my virtual box ( SAY NO XAMPP!!! One should NEVER use XAMPP!!! ). Follow my instructions precisely, and you should be just fine.
 
