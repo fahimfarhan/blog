@@ -6,6 +6,8 @@ date:   2019-12-07 21:03:36 +0600
 categories:
 ---
 Hello there! In this post, we'll see how to publish an android library using github package.
+
+
 ## Create a Library
 To begin with, first we need a demo project, let's call it MyAwesomeLibrary . For demonstration purposes, I am going to add a sample dependency named [alphamu/PinEntryEditText](https://github.com/alphamu/PinEntryEditText) to my library. Just add this line in the build.gradle file:
 ```
