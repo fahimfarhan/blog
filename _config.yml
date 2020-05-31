@@ -18,7 +18,7 @@ texture:
   title: fahimfarhan
   tagline: Developer. Coder
   date_format: "%b %-d, %Y"
-  style: cycle
+  style: spacex
   showNav: false
   showPicker: true
   disqus_shortname: fahimfarhan

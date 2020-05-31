@@ -49,6 +49,8 @@
     #black { background-color: #111; }
     #purple { background-color: rebeccapurple; }
     #green { background-color: #006622; }
+    #cycle { background-color: #8B4513; }
+    #spacex { background-color: #0070da; }
     //#green { background-color: mediumseagreen; }
 }
 {%- endif -%}
@@ -83,6 +85,10 @@
 
 .texture-cycle {
     background-image: url('{{ site.baseurl }}/assets/textures/cycle.jpg');
+}
+
+.texture-spacex {
+    background-image: url('{{ site.baseurl }}/assets/textures/spacex.png');
 }
 
 .texture-purple {
